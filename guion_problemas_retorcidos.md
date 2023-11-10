@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/main/imagenes/wicked_problems.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/2023_2024/imagenes/wicked_problems.png)
 
 
 
@@ -20,7 +20,7 @@ La finalidad última de este acto docente es que los estudiantes entiendan cómo
 
  ## Contenidos
 
-El contenido de esta sesión se adentra en el ámbito del conocimiento no explícito ni comprobable de manera cuantiativa. No hablaremos de experiementos científicos ni de datos cuantificables. El hilo argumental que seguimos tiene más que ver con la experiencia empíricamente adquirida por personas que llevan años trabajando con los problemas retorcidos. [Esta](https://github.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/raw/main/presentacion/problemas_retorcidos.pptx) presentación muestra los conceptos estudiados. A continuación se enumeran que se enumeran esquemáticamente:
+El contenido de esta sesión se adentra en el ámbito del conocimiento no explícito ni comprobable de manera cuantiativa. No hablaremos de experiementos científicos ni de datos cuantificables. El hilo argumental que seguimos tiene más que ver con la experiencia empíricamente adquirida por personas que llevan años trabajando con los problemas retorcidos. [Esta](https://github.com/aprendiendo-cosas/Te_problemas_retorcidos_gesteco_ccaa/raw/2023_2024/presentacion/problemas_retorcidos.pptx) presentación muestra los conceptos estudiados. A continuación se enumeran que se enumeran esquemáticamente:
 + En primer lugar definiremos el concepto de problema retorcido y analizaremos sus principales características.
 + Observaremos cómo en realidad este tipo de problemas forman parte de un gradiente en función de su grado de "retorcimiento"
 + Después analizaremos qué características tiene una situación para que en ella surgan problemas retorcidos. La respuesta general es que los sistemas complejos adaptativos generan problemas retorcidos de manera inherente. 
